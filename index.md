@@ -4,3 +4,6 @@
 $ git clone
 Clones the given repo.
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
